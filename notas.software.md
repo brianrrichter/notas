@@ -1,5 +1,11 @@
 # Software
 
-## Ranger
+## gerenciador de arquivos
 
-   gerenciador de arquivo no terminal
+* ranger
+   
+## Banco de dados
+
+* dbeaver
+* psql
+* pgmodeler
