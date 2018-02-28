@@ -7,7 +7,8 @@
 * §file_manager
 * §gui_prototyping
 * §text_based
-* §window_manager §tiling
+* §tiling
+* §window_manager
 
 ## softwares
 
