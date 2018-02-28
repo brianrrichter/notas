@@ -2,14 +2,18 @@
 
 ## tags
 
+* §database
 * §diagram
 * §file_manager
 * §gui_prototyping
+* §text_based
+* §window_manager §tiling
 
 ## softwares
 
-* ranger §file_manager
 * dbeaver §database
+* i3-wm §window_manager §tiling
+* Pencil §gui_prototyping §diagram
 * psql §database
 * pgmodeler §database
-* Pencil §gui_prototyping §diagram
+* ranger §file_manager §text_based
