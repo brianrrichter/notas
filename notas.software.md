@@ -2,7 +2,7 @@
 
 ## gerenciador de arquivos
 
-* ranger <file_manager>
+* ranger §file_manager
    
 ## Banco de dados
 
