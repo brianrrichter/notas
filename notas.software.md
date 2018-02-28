@@ -1,15 +1,15 @@
 # Software
 
-## gerenciador de arquivos
+## tags
+
+* §diagram
+* §file_manager
+* §gui_prototyping
+
+## softwares
 
 * ranger §file_manager
-   
-## Banco de dados
-
-* dbeaver
-* psql
-* pgmodeler
-
-## GUI prototyping, diagram
-
-* Pencil
+* dbeaver §database
+* psql §database
+* pgmodeler §database
+* Pencil §gui_prototyping §diagram
