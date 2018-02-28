@@ -9,3 +9,7 @@
 * dbeaver
 * psql
 * pgmodeler
+
+## GUI prototyping, diagram
+
+* Pencil
