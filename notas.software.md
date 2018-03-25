@@ -7,6 +7,7 @@
 * §file_manager
 * §game_engine
 * §gui_prototyping
+* §sound_editing
 * §testing
 * §text_based
 * §tiling
@@ -14,6 +15,7 @@
 
 ## softwares
 
+* audacity
 * dbeaver §database
 * godot §game_engine
 * i3-wm §window_manager §tiling
